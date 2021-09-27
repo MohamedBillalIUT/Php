@@ -1,6 +1,6 @@
 <?php
     //include Conf::getLogin();
-
+//https://webinfo.iutmontp.univ-montp2.fr/~mohamedb/PHP/TD2/testConf.php
 
     // On inclut les fichiers de classe PHP avec require_once
     // pour éviter qu'ils soient inclus plusieurs fois

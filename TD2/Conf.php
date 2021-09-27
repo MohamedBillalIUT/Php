@@ -16,7 +16,7 @@ class Conf
       'login' => 'mohamedb',
       // A l'IUT, c'est votre mdp (INE par defaut)
       // Sur votre machine personelle, vous avez creez ce mdp a l'installation
-      'password' => 'a_remplir'
+      'password' => '081501506CJ'
   );
 
   static public function getLogin()
